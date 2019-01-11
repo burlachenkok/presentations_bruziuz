@@ -1,0 +1,6 @@
+Links:
+[1] Slides for presentations: https://github.com/burlachenkok/presentations_bruziuz/tree/master/decision_trees/mpti
+[2] Part 1, video in Russian Language "CART and regression decision trees": https://www.youtube.com/watch?v=r4ZTy90233w&t=821s
+[3] Modern optimization methods in MIPT. Group in social network: https://vk.com/miptopt
+
+
